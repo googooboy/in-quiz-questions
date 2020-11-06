@@ -122,8 +122,8 @@ Adobe Photoshop Assessment
 ![In the image shown, why is Sharpen Edges grayed out?](https://github.com/ebazhanov/in-quiz-questions/blob/master/adobe-photoshop/image/Screenshot%20(440).png?raw=true)
 - [ ] The filter doesn't work on a 16-bit image.
 - [ ] The filer is not correctly installed.
-- [ ] The filter doesn't work on a 32-bit image.
-- [x] The filter requires a selection to be made first.
+- [x] The filter doesn't work on a 32-bit image.
+- [ ] The filter requires a selection to be made first.
 
 
 #### Q18. In the image shown, which Camera Raw feature was used to restrict the graduated filter to avoid the statue?
