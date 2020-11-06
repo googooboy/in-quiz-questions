@@ -84,10 +84,11 @@ Adobe Photoshop Assessment
 
 #### Q12. Which format does NOT support an alpha channel?
 - [ ] PSD
-- [x] PNG
+- [ ] PNG
 - [ ] TIFF
-- [ ] BMP
+- [X] BMP
 
+only bmp has no alpha channel
 
 #### Q13. What is the best way to save multiple images into a single PDF?
 - [ ] Save each PDF separately first and then combine them.
