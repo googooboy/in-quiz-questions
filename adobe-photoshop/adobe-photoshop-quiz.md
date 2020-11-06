@@ -52,9 +52,11 @@ Adobe Photoshop Assessment
 
 #### Q8. How do you access the Auto Color Correction Options dialog box?
 - [ ] Select Image > Auto Tone.
-- [x] Select Image > Auto Color.
-- [ ] Alt-click (Option-click) the Auto button in the Properties panel when you have a Levels or Curves adjustment layer targeted in the Layers panel.
+- [ ] Select Image > Auto Color.
+- [x] Alt-click (Option-click) the Auto button in the Properties panel when you have a Levels or Curves adjustment layer targeted in the Layers panel.
 - [ ] Hold down the Alt (Option) key and select Image > Auto Color.
+
+(attention:  it says "DIALOGUE BOX", it does not say how you apply the auto color, but how you open its dialog box)
 
 
 #### Q9. Which options are available when using the Free Transform command on a Smart Object?
